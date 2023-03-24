@@ -11,7 +11,8 @@ For this project we are building an ETL pipeline using Python, Pandas, and Pytho
 his project was divided as follows:
 
 
-1.Creating the Category and Subcategory DataFrames - Hardik
+
+1. Creating the Category and Subcategory DataFrames - Hardik
 
 
 2. Creating the Campaign DataFrame - Hardik
