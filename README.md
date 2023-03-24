@@ -9,7 +9,13 @@ For this project we are building an ETL pipeline using Python, Pandas, and Pytho
 
 #This project was created by Hardik and Varun and following are the breakdown of the work:
 his project was divided as follows:
-Creating the Category and Subcategory DataFrames - Hardik
-Creating the Campaign DataFrame - Hardik
-Creating the Contacts DataFrame - Varun
-Creating the Crowdfunding Database - Hardik and Varun
+1.Creating the Category and Subcategory DataFrames - Hardik
+
+
+2. Creating the Campaign DataFrame - Hardik
+
+
+3. Creating the Contacts DataFrame - Varun
+
+
+4. Creating the Crowdfunding Database - Hardik and Varun
