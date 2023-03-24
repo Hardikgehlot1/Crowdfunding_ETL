@@ -9,6 +9,8 @@ For this project we are building an ETL pipeline using Python, Pandas, and Pytho
 
 #This project was created by Hardik and Varun and following are the breakdown of the work:
 his project was divided as follows:
+
+
 1.Creating the Category and Subcategory DataFrames - Hardik
 
 
