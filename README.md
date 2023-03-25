@@ -12,13 +12,13 @@ his project was divided as follows:
 
 
 
-1. Creating the Category and Subcategory DataFrames - Hardik
+1. Creating the Category and Subcategory DataFrames - Hardik (ETL_Mini_Project_HGehlot.ipynb)
 
 
-2. Creating the Campaign DataFrame - Hardik
+2. Creating the Campaign DataFrame - Hardik (ETL_Mini_Project_HGehlot.ipynb)
 
 
-3. Creating the Contacts DataFrame - Varun
+3. Creating the Contacts DataFrame - Varun (ETL_Mini_Project_V_Vinodh.ipynb)
 
 
-4. Creating the Crowdfunding Database - Hardik and Varun
+4. Creating the Crowdfunding Database - Hardik and Varun (#crowdfunding_db_schema.sql, #QuickDBD-export (1).png  and #QuickDBD-export.sql)
